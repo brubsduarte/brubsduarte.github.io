@@ -2145,11 +2145,6 @@ textarea.form-control {
   height: auto;
 }
 
-.form-group {
-  height: 50px;
-  width: 180px;
-}
-
 .form-text {
   display: block;
   margin-top: 0.25rem;
